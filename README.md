@@ -113,7 +113,7 @@ I help businesses run fast, secure, and fully-optimized WordPress websites — w
 ### 🤝 Let's Connect
 
 - 🌐 [gulshankumar.net](https://www.gulshankumar.net)  
-- 🐦 [@gulshankumar](https://twitter.com/thegulshankumar)  
+- 🐦 [@thegulshankumar](https://x.com/thegulshankumar)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/thegulshankumar/)  
 
 ---
