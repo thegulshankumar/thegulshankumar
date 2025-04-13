@@ -85,29 +85,25 @@ I help businesses run fast, secure, and fully-optimized WordPress websites — w
 
 ## Certifications
 
-### EF SET English Certificate
-- **Level**: B2 Upper Intermediate (Writing: C1, Reading: B2)
-- **Issued**: April 2025
-- **Details**: Demonstrated strong communication skills for professional settings. Actively improving listening skills to reach full fluency.
+### Linux Foundation - Introduction to Linux (LFS101) 🐧
+- **Issued**: March 2025  
+- **Credential ID**: LF-v4qol37ssq
 
-### IBM Generative AI: Prompt Engineering Basics
-- **Issued**: April 2025
-- **Credential ID**: UMELQF1U90FP
-- **Details**: Gained foundational knowledge in designing effective prompts, understanding large language models, and applying AI responsibly.
+### GitHub - Getting Started with Git and GitHub 🧑‍💻
+- **Issued**: April 2025  
+- **Credential ID**: G35855P8M02D
 
-### cPanel WHM Administration Certification (CWA)
-- **Issued**: April 2025
-- **Expires**: April 2026
-- **Details**: Expertise in managing WHM environments, server security, performance optimization, and user management.
-
-### Business Email Certification (HP LIFE)
-- **Issued**: March 2025
-- **Details**: Covered purpose, audience understanding, structure, writing techniques, professional scenarios, best practices, etiquette, and formatting.
-
-### International SEO Certification (Semrush)
-- **Issued**: February 2025
+### Semrush International SEO 🌍
+- **Issued**: February 2025  
 - **Expires**: February 2026
-- **Details**: Well-versed in global SEO strategies, focusing on compliance, optimization, and sustainable growth for international online presence.
+
+### HubSpot Academy - SEO 📊
+- **Issued**: February 2025  
+- **Expires**: March 2026
+
+See more at [Credly](https://www.credly.com/users/thegulshankumar)
+
+---
 
 
 ### 🤝 Let's Connect
