@@ -93,16 +93,8 @@ I help businesses run fast, secure, and fully-optimized WordPress websites — w
 - **Issued**: April 2025  
 - **Credential ID**: G35855P8M02D
 
-### Semrush International SEO 🌍
-- **Issued**: February 2025  
-- **Expires**: February 2026
 
-### HubSpot Academy - SEO 📊
-- **Issued**: February 2025  
-- **Expires**: March 2026
-
-See more at [LinkedIn](https://www.linkedin.com/in/thegulshankumar/)  
-or [Credly](https://www.credly.com/users/thegulshankumar)
+See more at [LinkedIn](https://www.linkedin.com/in/thegulshankumar/)  or [Credly](https://www.credly.com/users/thegulshankumar)
 
 ---
 
