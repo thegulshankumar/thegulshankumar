@@ -101,7 +101,8 @@ I help businesses run fast, secure, and fully-optimized WordPress websites — w
 - **Issued**: February 2025  
 - **Expires**: March 2026
 
-See more at [Credly](https://www.credly.com/users/thegulshankumar)
+See more at [LinkedIn](https://www.linkedin.com/in/thegulshankumar/)  
+or [Credly](https://www.credly.com/users/thegulshankumar)
 
 ---
 
@@ -109,8 +110,7 @@ See more at [Credly](https://www.credly.com/users/thegulshankumar)
 ### 🤝 Let's Connect
 
 - 🌐 [gulshankumar.net](https://www.gulshankumar.net)  
-- 🐦 [@thegulshankumar](https://x.com/thegulshankumar)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/thegulshankumar/)  
+- 🐦 [@thegulshankumar](https://x.com/thegulshankumar) 
 
 ---
 
